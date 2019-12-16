@@ -1,4 +1,5 @@
 node_modules/
 .next/
 .vscode
-.envbackend/variables.env/
+.env
+backend/variables.env/
